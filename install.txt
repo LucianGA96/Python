@@ -1,0 +1,3 @@
+cd directoriu lucru
+vem /script /activate
+pip install pandas
